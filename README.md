@@ -1,1 +1,1 @@
-微服务注册中心，eureka实现
+micro services registry center based on eureka
