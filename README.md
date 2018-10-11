@@ -1,2 +1,1 @@
-# micro-registry
-registry center for micro services
+微服务注册中心，eureka实现
